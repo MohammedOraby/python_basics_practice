@@ -1,0 +1,5 @@
+{
+"name":"mohamed",
+"job":"programmer",
+"friends":["ahmed","reda","hany"]
+}
